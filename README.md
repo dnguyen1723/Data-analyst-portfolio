@@ -1,2 +1,2 @@
 # My Data analyst portfolio
-In this portfolio I present some SQL and Python codes that I did during my training of data analyst.
+In this portfolio I present my achievements of the data analyst training projects, using SQL and Python.
