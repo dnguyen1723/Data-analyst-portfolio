@@ -1,2 +1,2 @@
-# My Data analyst portfolio
+# My Data Analyst portfolio
 In this portfolio, I present my data analyst projects achievements using SQL and Python.
